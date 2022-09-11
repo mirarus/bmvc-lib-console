@@ -19,6 +19,7 @@
 			"BMVC\\Libs\\Console\\": "src"
 		}
 	},
+	"bin": ["bin/bmvc"],
 	"config": {
 		"preferred-install": "dist",
 		"sort-packages": true,
